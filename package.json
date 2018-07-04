@@ -1,0 +1,30 @@
+{
+  "name": "my-ico",
+  "version": "1.0.0",
+  "description": "ERC20 token tutorial",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twibap/my-ico.git"
+  },
+  "keywords": [
+    "ERC20",
+    "ICO",
+    "Ethereum"
+  ],
+  "author": "Twibap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twibap/my-ico/issues"
+  },
+  "homepage": "https://github.com/Twibap/my-ico#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.10.0"
+  }
+}
