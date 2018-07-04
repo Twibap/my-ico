@@ -14,7 +14,7 @@ Openzeppelin-solidity를 활용한 ERC20 토큰 및 토큰 발행 스마트 컨�
 	1.	Metamask에 토큰 추가
 		> 0xe2a086bd543f5bae2a96498344ae19b918b3571a
 
-	2.	토큰 발행 스마트 컨트랙트로 이더 전송
+	2.	토큰 발행 스마트 컨트랙트로 Ropsten testnet 이더 전송
 		> 0xc298d0a65f77b7c3940f0b94cf2e7de7fa5ad246
 
 	3.	트랜잭션 승인 후 입금된 토큰 확인
